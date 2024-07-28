@@ -5,4 +5,7 @@ public void hom()
 {
 	System.out.println("good parson");
 }
+public static void main(String[] args) {
+	
+}
 }
